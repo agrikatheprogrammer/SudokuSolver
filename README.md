@@ -1,3 +1,3 @@
 # Sudoku Solver Web App
 
-![](https://github.com/agrikatheprogrammer/SudokuSolver/blob/main/sudoku.gif?raw=true)
+![](https://github.com/agrikatheprogrammer/SudokuSolver/blob/main/sudoku.gif)
